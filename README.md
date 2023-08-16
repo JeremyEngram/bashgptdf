@@ -1,4 +1,4 @@
-# bashgpt – ask ChatGPT to write bash scripts from your terminal
+# bashgptdf – ask ChatGPT to write bash scripts from your terminal
 
 ## Install
 
